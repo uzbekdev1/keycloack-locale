@@ -1,0 +1,1 @@
+nssm install "keycloak-11" "C:\keycloak\bin\standalone.bat" "-b 0.0.0.0"
